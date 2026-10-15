@@ -1,0 +1,12 @@
+order_id,order_date,customer,product,quantity,unit_price
+1001,2026-08-03,  alice rao,laptop,1,55000
+1002,2026-08-05,bob mehta,mouse,3,450
+1003,2026-08-11,CAROL SHAH,keyboard,2,1200
+1004,2026-09-01,david khan,monitor,1,12500
+1005,2026-09-02,alice rao,mouse,2,450
+1005,2026-09-02,alice rao,mouse,2,450
+1006,2026-09-14,eva nair,laptop,2,54000
+1007,not-a-date,frank iyer,keyboard,1,1200
+1008,2026-09-20,gita reddy,monitor,-1,12500
+1009,2026-10-02,harsh patel,headset,4,2200
+1010,2026-10-09,bob mehta,laptop,1,56000
